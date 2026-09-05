@@ -1,5 +1,7 @@
 # Quick Maven
 
+![logo](./logo.png)
+
 **A simple emacs plugin to generate a minimal workable project so you don't have to write the pom.xml every time.**
 
 Simply press M-x and type qkmvn and return, it will generate:
